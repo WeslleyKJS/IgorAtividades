@@ -1,0 +1,25 @@
+.header{
+    word-spacing: 30px;
+    background-color: rgba(87, 138, 178, 0.985);
+    text-align: center;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.839);
+}
+
+h1{
+    text-align: center;
+}
+
+#pa{
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(255, 255, 255, 0.715);
+    text-align: center;
+}
+
+img{
+    margin-left: 290px;
+    
+}
